@@ -1,4 +1,5 @@
 # Background
+A classical segmentation tutorial in MATLAB, on the subject of tadpole embryos.
 
 The information was originally used as a tutorial to help a graduate research assistant at the University of Alabama at Birmingham to increase their programming skills.
 
